@@ -6,7 +6,7 @@ abstract class Assets {
   static const String edit = 'assets/icons/edit.svg';
   static const String error = 'assets/icons/error.svg';
   static const String logout = 'assets/icons/logout.svg';
-  static const String notification = 'assets/icons/notification.svg';
+  static const String notification = 'assets/icons/notication.svg';
   static const String settings = 'assets/icons/settings.svg';
   static const String visibility = 'assets/icons/visibility.svg';
 
