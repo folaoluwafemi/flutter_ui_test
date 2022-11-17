@@ -37,7 +37,7 @@ flutter:
         - asset: assets/fonts/gelion/regular.ttf
     - family: Graphik
       fonts:
-        - asset: assets/fonts/graphik/black.ttf
+        - asset: assets/fonts/graphik/black.otf
           weight: 900
-        - asset: assets/fonts/graphik/semibold.ttf
+        - asset: assets/fonts/graphik/semibold.otf
           weight: 600
