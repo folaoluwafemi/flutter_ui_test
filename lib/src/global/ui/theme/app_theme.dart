@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_ui_test/src/global/ui/colors/app_colors.dart';
 
-abstract class AppTheme {
+abstract class AppThemes {
   static ThemeData get lightTheme => _lightTheme;
 }
 
