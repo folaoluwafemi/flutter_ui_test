@@ -1,11 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:flutter_ui_test/src/global/domain/domain_barrel.dart';
+import 'package:flutter_ui_test/src/features/setting/settings_barrel.dart';
 import 'package:flutter_ui_test/src/global/ui/ui_barrel.dart';
-import 'package:flutter_ui_test/src/global/ui/widgets/button/app_button.dart';
-import 'package:flutter_ui_test/src/utils/constants/assets.dart';
-import 'package:flutter_ui_test/src/utils/extensions/extensions.dart';
-import 'package:flutter_ui_test/src/utils/fakes/fake_user_data.dart';
+import 'package:flutter_ui_test/src/utils/utils_barrel.dart';
 
 part 'widgets/settings_app_bar.dart';
 
@@ -24,5 +21,3 @@ class SettingsScreen extends StatelessWidget {
     );
   }
 }
-
-

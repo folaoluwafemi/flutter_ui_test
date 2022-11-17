@@ -1,3 +1,5 @@
+export 'package:flutter_ui_test/src/global/ui/widgets/button/app_button.dart';
+
 export 'package:flutter_ui_test/src/global/ui/app/flutter_ui_test_app.dart';
 export 'package:flutter_ui_test/src/global/ui/colors/app_colors.dart';
 export 'package:flutter_ui_test/src/global/ui/functions/ui_functions/ui_functions.dart';
